@@ -1,7 +1,7 @@
 # Mullvad-VPN-Ping
 Pinging All Mullvad Servers.
 
-!(Site)[https://i.imgur.com/4noP7T9.png]
+(Site)[https://i.imgur.com/4noP7T9.png]
 
 Available filters examples:
 Filter by country code Switzerland (ch):
